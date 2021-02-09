@@ -1,2 +1,2 @@
 # BLACKJACK
-jkb
+A simple terminal based version of complex card game called BLACKJACK
